@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+
+<metaModel  file_level="client" file_no="36">
+    
+    <type name="HIBSEARCHFIELD" rid="30">
+      <description>Hibernate Search Field</description>
+	  <inheritedCategory name="CAST_PluginObject"/>
+      <inheritedCategory name="Java" />
+     </type> 
+     
+      <type name="HIBSEARCHINDEXED" rid="31">
+      <description>Hibernate Search Indexed</description>
+	  <inheritedCategory name="CAST_PluginObject"/>
+      <inheritedCategory name="Java" />
+     </type> 
+     
+      <type name="HIBSEARCHDOCUMENT" rid="32">
+      <description>Hibernate search DocumentID</description>
+	  <inheritedCategory name="CAST_PluginObject"/>
+      <inheritedCategory name="Java" />
+     </type> 
+     
+      <type name="HIBSEARCHINDEXEMBEEDED" rid="33">
+      <description>Hibernate Search Index Embeeded</description>
+	  <inheritedCategory name="CAST_PluginObject"/>
+      <inheritedCategory name="Java" />
+     </type>
+     
+      <type name="HIBSEARCHContainedIn" rid="34">
+      <description>Hibernate Search Contained in</description>
+	  <inheritedCategory name="CAST_PluginObject"/>
+      <inheritedCategory name="Java" />
+     </type>  
+     
+      <type name="HIBSEARCHFieldBridge" rid="35">
+      <description>Hibernate Search Field Bridge</description>
+	  <inheritedCategory name="CAST_PluginObject"/>
+      <inheritedCategory name="Java" />
+     </type>  
+     
+       <type name="HIBSEARCHBOOST" rid="36">
+      <description>Hibernate Search Boost</description>
+	  <inheritedCategory name="CAST_PluginObject"/>
+      <inheritedCategory name="Java" />
+     </type>  
+     
+       <type name="HIBSEARCHSPATIAL" rid="37">
+      <description>Hibernate Search Spatial</description>
+	  <inheritedCategory name="CAST_PluginObject"/>
+      <inheritedCategory name="Java" />
+     </type>  
+
+ </metaModel>
